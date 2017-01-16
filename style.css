@@ -1,26 +1,26 @@
 .first_page{
         font-family: "Quicksand", sans-serif;
-        background-color: hsla(184, 43%, 57%, 0.75);
+        background-color: #E2E2E2;
         margin:0%;
 }  
 a:link {
-  color: grey;
+  color: #676C7F;
   text-decoration: none;
 }
 a:visited { 
-  color: grey;
+  color: #676C7F;
   text-decoration: none;
 }
 a:hover {
-  color: grey;
+  color: #676C7F;
 }
 a:active {
-  color: grey;
+  color: #676C7F;
   text-decoration: none;
 }
 
 .border{
-        background-color: hsla(184, 43%, 57%, 0.75);
+        background-color: #CCCCCC;
         height: 75px;
         margin:0%;
         color: white;
@@ -67,22 +67,22 @@ a:active {
 }
 
 a.sidebarlink:link{
-  color:grey;
+  color:#AFAFAF;
   text-decoration: none;
 }
 
 a.sidebarlink:visited{
-  color:grey;
+  color:#AFAFAF;
   text-decoration: none;
 }
 
 a.sidebarlink:hover{
-  color:grey;
+  color:#AFAFAF;
   text-decoration: none;
 }
 
 a.sidebarlink:active{
-  color:grey;
+  color:#AFAFAF;
   text-decoration: none;
 }
 
@@ -92,20 +92,20 @@ a.sidebarlink:active{
 }
 
 .alt-text{
-  color:white;
+  color:#AFAFAF;
 }
 
 .storyTitle{
        font-size:40px;
        font-weight:bold;
-       color: white;
+       color: #898989;
        text-align:left;
        margin-left:1%;
        margin-right:auto;
 }
 .story{
    font-size: 18px;
-   color: white;
+   color: #898989;
    text-align: left;
    margin-left:3%;
    margin-right:auto;
@@ -114,7 +114,7 @@ a.sidebarlink:active{
 }
 
 .bibliography{
-  color: white;
+  color: #898989;
   font-size: 10px;
   margin-left:1%; 
   margin-right:auto;
@@ -122,6 +122,6 @@ a.sidebarlink:active{
 }
 
 a.bibliography:link{
-  color:white;
+  color:#AFAFAF;
   text-decoration: none;
 }
