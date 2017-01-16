@@ -36,7 +36,7 @@ a:active {
 .main{
         font-size: 20px;
         font-weight: bold;
-        color: white;
+        color: #898989;
         text-align: right;
         margin-top: 3%;
         padding: 10px;
@@ -48,17 +48,17 @@ a:active {
 .name{
        font-size:60px;
        font-weight:bold;
-       color: white;
+       color: #898989;
        text-align:right;
 }
 
 .quote{
        font-weight:light;
-       color: white;
+       color: #898989;
 }
 
 .sidebar{
-     color: grey;
+     color: #AFAFAF;
      margin-top: 75px;
      margin-left: 20px;
      padding: 20px;
