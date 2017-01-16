@@ -100,7 +100,7 @@ a.sidebarlink:active{
        font-weight:bold;
        color: white;
        text-align:left;
-       padding: 5px;
+       margin-left:1%;
 }
 .story{
    font-size: 20px;
@@ -115,7 +115,7 @@ a.sidebarlink:active{
 .bibliography{
   color: white;
   font-size: 10px;
-  padding: 5px;
+  margin-left:1%; 
 }
 
 .body {
