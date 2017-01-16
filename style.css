@@ -95,6 +95,12 @@ a.sidebarlink:active{
   color:white;
 }
 
+.storyTitle{
+       font-size:40px;
+       font-weight:bold;
+       color: white;
+       text-align:left;
+}
 .story{
    font-size: 20px;
    color: white;
@@ -102,9 +108,7 @@ a.sidebarlink:active{
    margin-top: 3%;
    padding: 10px;
    margin-left:3%;
-   float: left;
-        
-        
+   float: left;        
 }
 
 .bibliography{
